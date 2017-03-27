@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.parents{
+    width:700px;
+    background-color: #e0eced;
+    overflow:  hidden;
+}
+.child{
+    height: 150px;
+    color: #fff;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+    
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
